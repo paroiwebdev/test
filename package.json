@@ -1,0 +1,11 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "majed",
+  "license": "MIT",
+  "repository": "https://github.com/paroiwebdev/test-project.git",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
